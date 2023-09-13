@@ -8,3 +8,14 @@ In addition to my core competencies, I am proficient in using GitHub and Git for
 My passion for writing efficient and well-structured code drives me to constantly explore new technologies and approaches. I am committed to delivering high-quality solutions that meet the needs of my clients and thrive on tackling complex challenges.
 
 Currently seeking new opportunities to leverage my skills and experience to deliver innovative solutions that drive business success.
+
+# Projects Done
+City Shuttle Cairo
+Caps Egypt
+Cairo Shuttle Bus
+2discover Egypt
+
+
+# Current Projects Working On
+- Caps Auto
+- Personal (private) Project
