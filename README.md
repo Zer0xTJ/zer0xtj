@@ -15,8 +15,8 @@ Currently seeking new opportunities to leverage my skills and experience to deli
 - Cairo Shuttle Bus
 - 2discover Egypt
 - Syrian Community
-- And much More ...
+- And much more ...
 
 # Working On:
 - Caps Auto
-- Personal (private) Project
+- Personal Project (Private)
