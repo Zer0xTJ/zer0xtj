@@ -9,7 +9,7 @@ My passion for writing efficient and well-structured code drives me to constantl
 
 Currently seeking new opportunities to leverage my skills and experience to deliver innovative solutions that drive business success.
 
-# Projects Done
+# Projects Done:
 - City Shuttle Cairo
 - Caps Egypt
 - Cairo Shuttle Bus
@@ -17,6 +17,6 @@ Currently seeking new opportunities to leverage my skills and experience to deli
 - Syrian Community
 - And much More ...
 
-# Current Projects Working On
+# Working On:
 - Caps Auto
 - Personal (private) Project
