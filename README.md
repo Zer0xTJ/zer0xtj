@@ -15,6 +15,7 @@ Currently seeking new opportunities to leverage my skills and experience to deli
 - Cairo Shuttle Bus
 - 2discover Egypt
 - Syrian Community
+- Jectometer
 - And much more ...
 
 # Working On:
