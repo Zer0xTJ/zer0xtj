@@ -1,5 +1,5 @@
 # Note
-I'm Working on large private projects, you will not be able to see any contributions statistics on my profile's overview.
+I'm working on large private projects, you will not be able to see any contributions statistics on my profile's overview.
 # About
 As an experienced full-stack developer, I have successfully delivered a large project for three traveling companies in Egypt. With a solid background in web development and full-stack development, I have a strong command of TypeScript/JavaScript and modern frameworks such as NestJS and Next.js. I am also skilled in unit testing, problem-solving, and writing clean, efficient code.
 
