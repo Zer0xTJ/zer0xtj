@@ -19,6 +19,8 @@ Currently seeking new opportunities to leverage my skills and experience to deli
 - Syrian Community
 - Jectometer
 - And much more ...
+- Noor-Almamzar Internal Systems
+
 
 # Working On:
 - Private Projects
